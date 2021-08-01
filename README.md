@@ -1,4 +1,4 @@
-# The Sparks Foundation Internship Task2
+# The Sparks Foundation Internship Task 2
 ### Prediction Using Unsupervised Machine Learning
 
 ## OVERVIEW
