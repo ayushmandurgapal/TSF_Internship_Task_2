@@ -28,7 +28,7 @@ To view the Jupyter notebook, click [here](https://github.com/ayushmandurgapal/T
 
 #### Visualization of Clusters
 
-![](images\IRIS VISUALIZATION.PNG)
+![](images/IRIS VISUALIZATION.PNG)
 
 
 
